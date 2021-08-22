@@ -1,16 +1,21 @@
-### Hi there 👋
+[![banner AlessandraCouto](https://user-images.githubusercontent.com/51713464/130366209-06d53d39-bf02-4595-832c-70c4eddc1f0d.png)](https://www.alessandracouto.com/)
 
-<!--
-**alessandradocouto/alessandradocouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Oii, eu sou Alessandra!! 🤙
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-Here are some ideas to get you started:
+Meu nome é Alessandra, sou Desenvolvedora Front-end com um gosto por design. Atualmente moro no Rio de Janeiro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏑 Hoje trabalho como freelance
+- 📖 Estou estudando Saas e JavaScript(Vanilla JS)
+- 👧 Pronouns: ela/dela
+
+<a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.alessandracouto.com"><img src="https://img.shields.io/badge/Portfolio-Site-2C2255?style=for-the-badge&logo=Google-chrome&logoColor=18A303&color=D00000&labelColor=black"></a> <a href="https://www.behance.net/alessandradocouto"><img src="https://img.shields.io/badge/Behance-330F63?style=for-the-badge&logo=behance&logoColor=white"></a>  <a href="https://www.hackerrank.com/alerjale"><img src="https://img.shields.io/badge/-Hackerrank-2eb375ff?style=for-the-badge&logo=HackerRank&logoColor=white"></a> <a href="mailto:alessandradocouto@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-grey?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+
+#### Github's Status
+
+![Alessandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&show_icons=true&theme=react)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
+
+
