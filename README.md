@@ -11,7 +11,7 @@ Meu nome é Alessandra, sou Desenvolvedora Front-end com um gosto por design. At
 - 📖 Estou estudando Saas e JavaScript(Vanilla JS)
 - 👧 Pronouns: ela/dela
 
-<a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.alessandracouto.com"><img src="https://img.shields.io/badge/Portfolio-Site-2C2255?style=for-the-badge&logo=Google-chrome&logoColor=18A303&color=D00000&labelColor=black"></a> <a href="https://www.behance.net/alessandradocouto"><img src="https://img.shields.io/badge/Behance-330F63?style=for-the-badge&logo=behance&logoColor=white"></a>  <a href="https://www.hackerrank.com/alerjale"><img src="https://img.shields.io/badge/-Hackerrank-2eb375ff?style=for-the-badge&logo=HackerRank&logoColor=white"></a> <a href="mailto:alessandradocouto@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-grey?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.alessandracouto.com"><img src="https://img.shields.io/badge/Portfolio-Site-2C2255?style=for-the-badge&logo=Google-chrome&logoColor=18A303&color=D00000&labelColor=black"></a>
 
 #### Github's Status
 
