@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"> 
-<img src="https://img.shields.io/badge/Mysql-ffffff?style=for-the-badge&logo=mysql&logoColor=black">
+<img src="https://img.shields.io/badge/Mysql-006a9d?style=for-the-badge&logo=mysql&logoColor=white">
 
 Meu nome é Alessandra, sou Desenvolvedora Front-end com um gosto por design.
 
