@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&logoColor=white">
 
 
-closed_lock_with_key: Banco de Dados(Database):
+:closed_lock_with_key: Banco de Dados(Database):
 
 <img src="https://img.shields.io/badge/Mysql-F24E1E?style=for-the-badge&logo=mysql&logoColor=yellow">
 
@@ -25,6 +25,7 @@ closed_lock_with_key: Banco de Dados(Database):
 :telescope: UX/UI(Design):
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
+
 
 
 
