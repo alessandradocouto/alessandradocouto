@@ -19,7 +19,7 @@
 
 :closed_lock_with_key: Banco de Dados(Database):
 
-<img src="https://img.shields.io/badge/Mysql-F24E1E?style=for-the-badge&logo=mysql&logoColor=yellow">
+<img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=yellow">
 
 
 :telescope: UX/UI(Design):
