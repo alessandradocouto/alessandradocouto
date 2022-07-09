@@ -1,8 +1,6 @@
 [![banner AlessandraCouto](https://user-images.githubusercontent.com/51713464/130366209-06d53d39-bf02-4595-832c-70c4eddc1f0d.png)](https://www.alessandracouto.com/)
 
-### Muito prazer, eu sou Alessandra!! 
-
-  <a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    <a href="https://www.alessandracouto.com"><img src="https://img.shields.io/badge/Portfolio-Site-2C2255?style=for-the-badge&logo=Google-chrome&logoColor=18A303&color=D00000&labelColor=black"></a>
+### Muito prazer, eu sou Alessandra!!  <a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.alessandracouto.com"><img src="https://img.shields.io/badge/Portfolio-Site-2C2255?style=for-the-badge&logo=Google-chrome&logoColor=18A303&color=D00000&labelColor=black"></a>
 
 - 🤙 Sou criativa, curiosa e com um gosto por design. 
 -  :hourglass_flowing_sand: Tec. de Sistemas de Computação(UFF) e sigo estudando e me atualizando nas tendências de tecnologias do mercado através de cursos.
