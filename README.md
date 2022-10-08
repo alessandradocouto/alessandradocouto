@@ -1,4 +1,3 @@
-[![banner AlessandraCouto](https://user-images.githubusercontent.com/51713464/194718733-58536afb-fed1-4ae6-8f13-96bb198c22ac.png)
 
 ### Muito prazer, eu sou Alessandra!!  <a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
@@ -26,8 +25,6 @@
 :telescope: UX/UI(Design):
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
-
-
 
 
 #### :bar_chart: Github's Status
