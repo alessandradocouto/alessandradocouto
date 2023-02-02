@@ -33,6 +33,6 @@
 
 #### :bar_chart: Github's Status
 
-[![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=dracula&show_icons=true)]
+![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=dracula&show_icons=true)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
