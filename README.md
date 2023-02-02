@@ -17,8 +17,7 @@
 :roller_coaster:  Habilidades no Back-end:
 
 
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Java-CCCCCC?style=for-the-badge&logo=java&logoColor=black">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
@@ -40,6 +39,3 @@ https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescri
 [![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula&show_icons=true)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
-
-
-![Snake animation](https://github.com/alessandradocouto/alessandradocouto/blob/output/github-contribution-grid-snake.svg)
