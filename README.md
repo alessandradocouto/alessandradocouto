@@ -23,14 +23,14 @@ https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescri
 <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-CCCCCC?style=for-the-badge&logo=python&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 
 :closed_lock_with_key: Banco de Dados(Database):
 
 
 <img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=yellow">
-[<img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=yellow">](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
  
 :telescope: Outras techs:
 
@@ -40,7 +40,7 @@ https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoC
 
 #### :bar_chart: Github's Status
 
-[![Alessandra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alessandradocouto)
+[![Alessandra's wakatime stats](https://github-readme-stats.vercel.app/api/username=alessandradocouto)
 ](https://github.com/alessandradocouto/github-readme-stats)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
