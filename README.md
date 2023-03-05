@@ -5,7 +5,7 @@ Hi, my name is Alessandra! I love solve problems and for me,
 technology is a means to achieve these goals. 
 I'm student in Computer System at UFF.
 
-<a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+![](https://komarev.com/ghpvc/?username=alessandradocouto&style=flat-square)   <a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 💯 I currently work as a Internship Developer IT at Bemobi.
@@ -54,6 +54,6 @@ I'm student in Computer System at UFF.
 
 ![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=buefy&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&theme=buefy&layout=compact)(https://github.com/alessandradocouto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
  
  
