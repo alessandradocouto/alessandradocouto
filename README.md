@@ -1,15 +1,20 @@
 
-## Hi, ✌🏻 my name is Alessandra!  
+## Hello word ✌🏻  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto"/>
 
 <a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
-- 📗 I love solve problems and for me, technology is a means to achieve these goals. 
+Hi, my name is Alessandra! I love solve problems and for me,
+technology is a means to achieve these goals. 
+I'm student in Computer System at UFF.
 
-- 💯 I currently work as a Internship Developer T.I in Bemobi. 
+💯 I currently work as a Internship Developer IT at Bemobi.
 
-- ⚽️ Football fan, go Spurs!
+❗ Studying C#, .Net Core and Cloud Technologies.
 
-- 📱❗ You can reach me at LinkedIn or send me an email at alessandradocouto@outlook.com
+⚽️ Football fan, go Spurs!
+
+📱 You can reach me at LinkedIn or send me an email at alessandradocouto@outlook.com
 
 
 
@@ -46,8 +51,11 @@
 
 #### 📊 Github's Stats
 
-![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=buefy&show_icons=true)
+<div>
+ ![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=buefy&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&theme=buefy&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&theme=buefy&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
+ 
+ </div>
 
 
