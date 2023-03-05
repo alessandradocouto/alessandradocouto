@@ -1,6 +1,5 @@
 
 ## Hello word ✌🏻  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto"/>
 
 <a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
@@ -51,11 +50,9 @@ I'm student in Computer System at UFF.
 
 #### 📊 Github's Stats
 
-<div>
- ![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=buefy&show_icons=true)
 
- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&theme=buefy&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
+![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=buefy&show_icons=true)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&theme=buefy&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
  
- </div>
-
-
+ 
