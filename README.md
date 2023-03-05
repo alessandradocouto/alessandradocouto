@@ -46,8 +46,8 @@
 
 #### 📊 Github's Stats
 
-![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=vue-dark&show_icons=true)
+![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=buefy&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&theme=buefy&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
 
 
