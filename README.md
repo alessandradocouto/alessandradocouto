@@ -40,13 +40,13 @@
  
 ## 🔎 Others Techs:
 
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/Figma-30363D?style=for-the-badge&logo=figma&logoColor=#white">  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"> 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/Figma-30363D?style=for-the-badge&logo=figma&logoColor=#white">  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"> 
 
 
 
-#### 📊 Github's Status
+#### 📊 Github's Stats
 
-![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=dracula&show_icons=true)
+![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=vue-dark&show_icons=true)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
 
