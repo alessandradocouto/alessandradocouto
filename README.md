@@ -1,11 +1,12 @@
 
 ## Hello word ✌🏻  
-
-<a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-
+ 
 Hi, my name is Alessandra! I love solve problems and for me,
 technology is a means to achieve these goals. 
 I'm student in Computer System at UFF.
+
+<a href="https://www.linkedin.com/in/alessandradocouto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 💯 I currently work as a Internship Developer IT at Bemobi.
 
