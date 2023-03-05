@@ -54,6 +54,6 @@ I'm student in Computer System at UFF.
 
 ![Alessandra's stats](https://github-readme-stats.vercel.app/api?username=alessandradocouto&theme=buefy&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&theme=buefy&layout=compact)](https://github.com/alessandradocouto/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandradocouto&theme=buefy&layout=compact)(https://github.com/alessandradocouto/github-readme-stats)
  
  
