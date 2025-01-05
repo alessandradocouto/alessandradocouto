@@ -40,6 +40,14 @@ Hi, my name is Alessandra! I am passionate about solving problems, and for me, t
 
 
 
+## ☁️ Cloud Technologies:
+
+
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=orange">
+
+
+
+
  
 ## 🔎 Others Techs:
 
