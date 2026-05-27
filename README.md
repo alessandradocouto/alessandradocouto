@@ -17,7 +17,7 @@ Football fan, go Spurs!
 
 
 
-## IA: 
+## 🤖 IA: 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
@@ -33,34 +33,34 @@ Football fan, go Spurs!
 ## 🖥 Front-End:
 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">     <img src="https://img.shields.io/badge/Material--UI-4285F4?style=for-the-badge&logo=mui&logoColor=white">     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">     <img src="https://img.shields.io/badge/Material--UI-4285F4?style=for-the-badge&logo=mui&logoColor=white">     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 
 
-## 📝 Back-end:
+## 🧠 Back-end:
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">     <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">     <img src="https://img.shields.io/badge/Typescript-0076c5?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 
 
 
 ## 🗂 Database:
 
 
-<img src="https://img.shields.io/badge/Mysql-FFBE00?style=for-the-badge&logo=mysql&logoColor=blue">     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Mysql-FFBE00?style=for-the-badge&logo=mysql&logoColor=blue">     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)">
 
 
 
 ## ☁️ Cloud Technologies:
 
 
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=orange">     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=orange">
 
 
 
-## ☁️ CI/CD:
+## ⚙️ CI/CD:
 
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">     <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff">
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 
 
